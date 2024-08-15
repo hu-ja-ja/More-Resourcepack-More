@@ -25,10 +25,28 @@ Additionally, with the included [Mod](https://modrinth.com/mod/resourcify), you 
 
 ### Optimization Mods
 
-- sample mod
-  - description
-- sample mod
-  - description
+- [Async Pack Scan](https://modrinth.com/mod/async-pack-scan) by JFronny
+- [BadOptimizations](https://modrinth.com/mod/badoptimizations) by thosea
+- [Better Beds](https://modrinth.com/mod/better-beds) by Motschen
+- [Cull Less Leaves](https://cdn.modrinth.com/data/iG6ZHsUV/icon.png) by isxander
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) by juliand665
+- [Embeddium](https://modrinth.com/mod/embeddium) by embeddedt <small>and JellySquid <3</small>
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe) by FoundationGames
+- [EntityCulling](https://modrinth.com/mod/entityculling) by tr7zw
+- [Fast Paintings](https://modrinth.com/mod/fast-paintings) by MehVahdJukaar
+- [FastQuit](https://modrinth.com/mod/fastquit) by contaria
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) by malte0811
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) by RaphiMC
+- [Iris](https://modrinth.com/mod/iris) by IMS
+- [Language Reload](https://modrinth.com/mod/language-reload) by Jerozgen
+- [Lithium](https://modrinth.com/mod/lithium) by 2No2Name
+- [ModernFix](https://modrinth.com/mod/modernfix) by embeddedt
+- [Noisium](https://modrinth.com/mod/noisium) by Steveplays
+- [Nvidium](https://modrinth.com/mod/nvidium) by cortex
+- [OptiPainting](https://modrinth.com/mod/optipainting) by isxander
+- [Remove Reloading Screen](https://modrinth.com/mod/rrls) by dima_dencep
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra) by FlashyReese
+- [ThreadTweak](https://modrinth.com/mod/threadtweak) by getchoo
 
 ### <font color=#882d2d >**Optifine**</font> Alternatives Mods (Resourcepack)
 
