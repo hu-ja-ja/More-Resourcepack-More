@@ -95,7 +95,6 @@ Additionally, with the included [Mod](https://modrinth.com/mod/resourcify), you 
 - [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) by LambdAurora
 - [MinecraftCapes](https://modrinth.com/mod/minecraftcapes) by james090500
 - [Mod Menu](https://modrinth.com/mod/modmenu) by Prospector
-- [Mod Sets](https://modrinth.com/mod/mod-sets) by settingdust
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) by Aizistral
 - [No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings) by Space Walker
 - [Recursive Resources](https://modrinth.com/mod/recursiveresources) by enjarai
