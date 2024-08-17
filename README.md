@@ -50,38 +50,92 @@ Additionally, with the included [Mod](https://modrinth.com/mod/resourcify), you 
 
 ### <font color=#882d2d >**Optifine**</font> Alternatives Mods (Resourcepack)
 
-- sample mod
-  - description
-- sample mod
-  - description
+- [Animatica](https://modrinth.com/mod/animatica) by FoundationGames
+- [CIT Resewn](https://modrinth.com/mod/cit-resewn) by shsupercm
+- [Continuity](https://modrinth.com/mod/continuity) by PepperCode1
+- [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) by Motschen
+- [Enhanced Block Entities](https://modrinth.com/mod/ebe) by FoundationGames
+- [Entity Model Features](https://modrinth.com/mod/entity-model-features) by Traben
+- [Entity Sound Features](https://modrinth.com/mod/esf) by Traben
+- [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) by Traben
+- [FabricBetterGrass](https://modrinth.com/mod/fabricbettergrass) by UltimatChamp
+- [FabricSkyBoxes](https://modrinth.com/mod/fabricskyboxes) by AMereBagatelle
+- [FabricSkyBoxes Interop](https://modrinth.com/mod/fabricskyboxes-interop) by FlashyReese
+- [MoreMcmeta Emissive Textures](https://modrinth.com/mod/moremcmeta-emissive) by soir20
+  - default is off
+- [OptiGUI](https://modrinth.com/mod/optigui) by opekope2
+- [Polytone](https://modrinth.com/mod/polytone) by MehVahdJukaar
+- [Vanadium](https://modrinth.com/mod/vanadium) by AluTheCrow
 
 #### A Higher Level (ここいらないかも)
 
-- sample mod
-  - description
-- sample mod
-  - description
+- [Athena](https://modrinth.com/mod/athena-ctm) by Terrarium
+- [Chime](https://modrinth.com/mod/chime) by Emi
+  - default is off
+- [Fusion](https://modrinth.com/mod/fusion-connected-textures) by SuperMartijn642
+- [JsonEM](https://modrinth.com/mod/jsonem) by FoundationGames
+  - default is off
+- [More Block Predicates](https://modrinth.com/mod/mbp) by omoflop
+  - default is off
+- [MoreMcmeta](https://modrinth.com/mod/moremcmeta) by soir20
+  - default is off
+- [Transparent](https://modrinth.com/mod/transparent) by Trikzon
 
 ### Other QOL Mods
 
-- sample mod
-  - description
-- sample mod
-  - description
+- [3D Skin Layers](https://modrinth.com/mod/3dskinlayers) by tr7zw
+- [Better Mipmaps](https://modrinth.com/mod/better-mipmaps) by sidit77
+- [Block Entity Extended Rendering](https://modrinth.com/mod/beer) by jhalfsharp
+- [Capes](https://modrinth.com/mod/capes) by caelthecolher
+- [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) by Kir_Antipov
+- [Euphoria Patcher](https://modrinth.com/mod/euphoria-patches) by SpacEagle17
+- [Fabrishot](https://modrinth.com/mod/fabrishot) by ramidzkh
+- [I see you over there!](https://modrinth.com/mod/i-see-you-over-there) by Estecka
+- [Iris](https://modrinth.com/mod/iris) by IMS
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) by LambdAurora
+- [MinecraftCapes](https://modrinth.com/mod/minecraftcapes) by james090500
+- [Mod Menu](https://modrinth.com/mod/modmenu) by Prospector
+- [Mod Sets](https://modrinth.com/mod/mod-sets) by settingdust
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports) by Aizistral
+- [No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings) by Space Walker
+- [Recursive Resources](https://modrinth.com/mod/recursiveresources) by enjarai
+- [ResolutionControl 3](https://modrinth.com/mod/resolutioncontrol3) by bgp <small>and UltimateBoomer <3</small>
+- [Respackopts](https://modrinth.com/mod/respackopts) by JFronny
+- [Resourcify](https://modrinth.com/mod/resourcify) by DeDiamondPro
+- [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) by comp500
+- [Sodium Shadowy Path Blocks](https://modrinth.com/mod/sodium-shadowy-path-blocks) by Rynnavinx
+- [Sound Controller](https://modrinth.com/mod/sound-controller) by BVengo
+- [Zoomify](https://modrinth.com/mod/zoomify) by isxander
+
+### Fix & Tweaks
+
+- [Centered Crosshair](https://modrinth.com/mod/centered-crosshair) by JustAlittleWolf
+- [List Entry Highlight Fix](https://modrinth.com/mod/list-entry-highlight-fix) by LX86
+- [Logarithmic Volume Control](https://modrinth.com/mod/logarithmic-volume-control) by girlbossdev
+- [Model Gap Fix](https://modrinth.com/mod/modelfix) by MehVahdJukaar
+- [Raise Sound Limit Simplified](https://modrinth.com/mod/rsls) by ishland
+- [Title Fixer](https://modrinth.com/mod/title-fixer) by thegameratort
+- [Translucency Fix](https://modrinth.com/mod/translucencyfix) by ruvaldak
+
+### Lib & API
+
+- [Architectury API](https://modrinth.com/mod/architectury-api) by shedaniel
+- [Ash API](https://modrinth.com/mod/ash-api) by Trikzon
+- [Cloth Config API](https://modrinth.com/mod/cloth-config) by shedaniel
+- [Fabric API](https://modrinth.com/mod/fabric-api) by modmuss50
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) by modmuss50
+- [LibJF](https://modrinth.com/mod/libjf) by JFronny
+- [Moonlight Lib](https://modrinth.com/mod/moonlight) by MehVahdJukaar
+- [YetAnotherConfigLib](https://modrinth.com/mod/yacl) by isxander
 
 ### Included Resourcepacks
 
-- sample resourcepack
-  - description
-- sample resourcepack
-  - description
+- [No Z-Fighting](https://modrinth.com/resourcepack/no-z-fighting) by StormDragon77
 
 ### Included Shaders
 
-- sample shader
-  - description
-- sample shader
-  - description
+- [Complementary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined) by EminGT
+- [Complementary Shaders - Unbound](https://modrinth.com/shader/complementary-unbound) by EminGT
 
 </details>
 
@@ -144,4 +198,16 @@ Is there a resource pack that doesn’t work properly with this modpack? We’ve
 **3**, Move (copy) the contents of `assets/minecraft/optifine/colormap` to the folder created in 2.
 
 ※You can use Vanadium, but it’s quite buggy and not highly recommended.
+</details>
+
+<details>
+<summary>Case 4 -> <b>When MoreMcmeta is enabled, some Resourcepacks do not work properly.</b></summary>
+
+Possibly, this problem has affected the issue.
+
+#### Impact with Iris
+<https://github.com/MoreMcmeta/core/issues/97>
+
+#### Impact with ETF
+<https://github.com/MoreMcmeta/core/issues/94>
 </details>
