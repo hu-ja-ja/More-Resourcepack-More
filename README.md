@@ -67,7 +67,7 @@ Additionally, with the included [Mod](https://modrinth.com/mod/resourcify), you 
 - [Polytone](https://modrinth.com/mod/polytone) by MehVahdJukaar
 - [Vanadium](https://modrinth.com/mod/vanadium) by AluTheCrow
 
-#### A Higher Level (ここいらないかも)
+#### A Higher Level
 
 - [Athena](https://modrinth.com/mod/athena-ctm) by Terrarium
 - [Chime](https://modrinth.com/mod/chime) by Emi
